@@ -51,7 +51,7 @@
 ## 项目截图
 个人主页
 <br/>
-<div align=center><img src="[[图片路径]](https://github.com/nacey5/Dp_ystem/blob/master/image/DP_System_%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5.png)"></div>
+<div align=center><img src="https://github.com/nacey5/Dp_ystem/blob/master/image/DP_System_%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5.png"></div>
 
 发布个人笔记
 <br/>
