@@ -51,13 +51,18 @@
 ## 项目截图
 个人主页
 ![个人主页](https://github.com/nacey5/Dp_ystem/blob/master/image/DP_System_%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5.png)
+<br/>
 发布个人笔记
 ![发布个人笔记](https://github.com/nacey5/Dp_ystem/blob/master/image/DP_System_%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0.png)
+<br/>
 点赞互动
 ![点赞互动](https://github.com/nacey5/Dp_ystem/blob/master/image/DP_System_%E7%82%B9%E8%B5%9E%E4%BA%92%E5%8A%A8.png)
+<br/>
 登陆
 ![登陆](https://github.com/nacey5/Dp_ystem/blob/master/image/DP_System_%E7%99%BB%E9%99%86.png)
+<br/>
 资料编辑
 ![资料编辑](https://github.com/nacey5/Dp_ystem/blob/master/image/DP_System_%E8%B5%84%E6%96%99%E7%BC%96%E8%BE%91.png)
+<br/>
 首页
 ![首页](https://github.com/nacey5/Dp_ystem/blob/master/image/DP_System_%E9%A6%96%E9%A1%B5.png)
